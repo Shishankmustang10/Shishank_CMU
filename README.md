@@ -11,20 +11,21 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi, I’m Shishank Sharma – a graduate student at Carnegie Mellon University, studying Public Policy and Management with a focus on data visualization, analytics, and AI ethics. I’m passionate about uncovering insights from complex datasets and turning them into clear, actionable stories that drive decision-making.
+
+I recently worked as a Data Intern with the Information Management Unit at the UN Departments of Political and Peacebuilding Affairs / Peace Operations (DPPA/DPO), where I built interactive dashboards, geospatial visuals, and data-driven reports to support global peacekeeping missions.
+
+Here on GitHub, I share projects exploring data storytelling, visualization techniques, and applied analytics, blending policy knowledge with technical expertise to solve real-world challenges.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+I’m on a journey to turn raw numbers into powerful narratives. As a graduate student at Carnegie Mellon University in the Telling Stories with Data course, I’m exploring how design, visualization, and analytics can come together to make data not just informative, but impossible to ignore.
 
-1. List item #1
-2. List item #2
-3. List item #3
+Master Tableau to create dynamic, interactive dashboards that simplify complexity.
 
-or...
+Use GitHub to collaborate, share projects, and build a polished data storytelling portfolio.
 
-- List item #1
-- List item #2
-- List item #3
+Push creative boundaries by experimenting with innovative storytelling techniques to make insights engaging and actionable.
+
 
 # Portfolio
 
