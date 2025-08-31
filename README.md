@@ -11,22 +11,20 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! I’m **Shishank Sharma** (he/him), a graduate student in the **Master of Science in Public Policy and Management (MSPPM)** program at **Carnegie Mellon University**. With a background in data analytics, strategic communication, and leadership, I’m passionate about leveraging data storytelling to solve complex global challenges. My professional journey includes service as an **Indian Army officer** and recent experience as a **Data Intern** with the Information Management Unit at the **United Nations** Department of Political and Peacebuilding Affairs (DPPA/DPO), where I focused on creating impactful visualizations and dashboards to inform peacekeeping operations.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+Build advanced skills in _data storytelling and visualization_ to make complex ideas simple and engaging.
 
-1. List item #1
-2. List item #2
-3. List item #3
+Explore _creative tools and platforms_ (like Tableau, GitHub, and interactive dashboards) to share insights effectively.
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
+Strengthen my ability to _communicate data-driven narratives_ for real-world policy and decision-making.
 
 # Portfolio
+**Visualizing overnment Debt** 
+**Critique by Design**
+**final-project-part-one**
+**final-project-part-two**
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
