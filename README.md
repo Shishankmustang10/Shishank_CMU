@@ -4,8 +4,8 @@
 These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
 It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+- Web page URL: https://shishankmustang10.github.io/Shishank_CMU/ 
+- This repository: https://github.com/Shishankmustang10/Shishank_CMU
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
@@ -22,8 +22,11 @@ Strengthen my ability to _communicate data-driven narratives_ for real-world pol
 
 # Portfolio
 **Visualizing overnment Debt** 
+
 **Critique by Design**
+
 **final-project-part-one**
+
 **final-project-part-two**
 
 # Examples
