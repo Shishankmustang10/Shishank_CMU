@@ -1,6 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
+# China's Exponential Rise in Tomato Production in Last Two Decades
 Text here...
 
 _For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
@@ -9,51 +9,79 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+
+
+The data visualization I selected is titled “Biggest Tomato Producers”, created with sjvisualizer and sourced from Food and Agriculture Organization of the United Nations, FAOSTAT. The original visualization can be accessed here: https://www.linkedin.com/feed/update/urn:li:activity:7038221922265915394/ 
+Dataset Link: https://data.world/makeovermonday/2023w17 
+
+I chose this visualization because of its dynamic bar chart design, which immediately captures attention by showing how different countries compare in tomato production. China, for example, overwhelmingly dominates global production with more than 66 million tonnes, while India and Turkey follow at a much lower scale. The use of bright national flags, bold numeric values, and a moving chart had alot of scope for improvement.
+
+This particular visualization intrigued me because I also did internship at  United Nations HQs, and was curious to find out about FAOSTAT. Static numbers in a spreadsheet often fail to convey scale or impact, but visualizations like this make global agricultural patterns intuitive and relatable. 
+
+  <img width="633" height="823" alt="Screenshot 2025-09-18 at 11 39 06 AM" src="https://github.com/user-attachments/assets/c28b8735-832c-4474-bd11-e81232de741d" />
+
+
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+The FAOSTAT visualization on “Which country produces the most tomatoes?” was engaging due to its dynamic nature and attention-grabbing heading. It effectively highlighted key insights such as China’s rise and the U.S.’s decline in tomato production. Readable labeling and the use of flag-inspired colors were positives.
+
+However, the design suffered from visual clutter—overuse of colors, unnecessary repetition of text, distracting flags, and an irrelevant pie chart. The background image of tomatoes further reduced clarity. Additionally, the omission of potatoes from the dataset limited completeness and reduced its research utility.
+
+The primary audience is likely researchers, policymakers, and UN/food organizations, yet the LinkedIn post format without explanatory context limited accessibility for this group.
+
+Redesign Priorities:
+
+Remove flags and repetitive labels.
+
+Use a calmer, consistent color scheme with reduced brightness/opacity.
+
+Eliminate the redundant pie chart.
+
+Simplify the background to improve readability.
+
+Explore a line chart (years on X-axis, tonnage on Y-axis) to show production trends more intuitively.
 
 ## Step three: Sketch a solution
 
+For Step 3, I sketched out my redesign by hand, keeping Stephen Few’s ideas about clarity in mind. I wanted to move away from the clutter of the original FAOSTAT chart and focus on something simple and direct. My plan is to use a line chart to show tomato production over time, which makes trends easier to spot at a glance. Inspired by Ben Garvey’s sketching approach, I shared my rough draft with friends through a Google Form and got feedback on colors, layout, and readability. 
+
+![IMG_5922](https://github.com/user-attachments/assets/fa6b4471-26e9-4dac-854c-8f3d9eeb2301)
+
+
+
+
+
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+For Step 4, I shared my sketch with peers and collected feedback from three people to test clarity and effectiveness. All three correctly understood that the visualization showed China as the rising tomato producer between 1981–2021. They noted that the handwritten heading was appealing, but overlapping lines and bold colors made the graph cluttered. Several suggested using lighter colors for other countries and highlighting China more clearly, perhaps by labeling it at the end of the line. The intended audience was identified as both researchers and data analysts. Overall, the main feedback pattern emphasized improving clarity, reducing visual noise, and focusing more directly on China’s production trend.
 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+Google Form Link :  https://docs.google.com/forms/d/e/1FAIpQLSc2Xzh4BANoHPOsFStqvrVMrDur2HC4EHcqNqHjGXqGksU7ag/viewform?usp=header 
+ 
+
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+A clear pattern across the feedback was that while the overall message—China as the largest tomato producer—was understood, the visual clarity needed improvement. Participants found the handwritten heading engaging but pointed out that overlapping lines and bold colors made interpretation difficult. Another consistent theme was the suggestion to tone down colors for other countries and emphasize China more clearly, such as by labeling it at the end of the line. Audience identification also showed consensus that both data analysts and researchers are the most likely users.
+
+From this, I learned that simplicity and focus are key. My final redesign will highlight China’s production trend while using lighter, muted colors for other countries, reduce overlapping by simplifying the chart, and improve labeling to guide interpretation without extra explanation.
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+For my final redesign, I focused on simplifying the visualization while clearly communicating the key message: China is the largest tomato producer over time. I replaced the original cluttered bar and pie charts with a line chart showing production trends from 1981–2021, with years on the X-axis and tonnage on the Y-axis. China’s line is highlighted in a bold, easily distinguishable color, while other countries are shown in muted, lighter tones to reduce visual noise. I removed the unnecessary pie chart, background images, and flag icons, and ensured labeling was consistent and placed strategically at the end of each line for clarity.
+
+The redesign process included hand sketches, peer feedback, and iterative refinements. Feedback revealed that while the original chart’s story was understandable, overlapping lines, bold colors, and a cluttered design made it harder to interpret. Participants suggested emphasizing China and simplifying other elements, which directly influenced my color choices, labeling strategy, and chart selection.
+
+Overall, this process reinforced the importance of clarity, focus, and audience-centered design in data visualization. Iterating through sketches and gathering peer feedback allowed me to test whether the design communicates effectively without explanation, which ultimately strengthened the final visualization.
+
 
 ## References
-_List any references you used here._
+https://www.linkedin.com/feed/update/urn:li:activity:7038221922265915394/
+https://www.fao.org/faostat/en/#data/QCL
+https://data.world/makeovermonday/2023w17
+https://docs.google.com/forms/d/1mP-50jqGxZo6qnacaFcd8uiLjGmnxJh9G3-Eax5T_9o/edit#responses 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+AI used for step by step guidance on tableu- Copilot
+AI also used for summarising my own initial thoughts, especially for senetence formation, and to check grammatical errors.
 
