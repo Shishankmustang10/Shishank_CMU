@@ -1,11 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # China's Exponential Rise in Tomato Production in Last Two Decades
-Text here...
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
 ## Step one: the visualization
 
@@ -74,6 +70,7 @@ The redesign process included hand sketches, peer feedback, and iterative refine
 
 Overall, this process reinforced the importance of clarity, focus, and audience-centered design in data visualization. Iterating through sketches and gathering peer feedback allowed me to test whether the design communicates effectively without explanation, which ultimately strengthened the final visualization.
 
+<img width="1792" height="1120" alt="Screenshot 2025-09-18 at 1 38 43 PM (2)" src="https://github.com/user-attachments/assets/9fd8a659-6841-45d2-bc67-bcd4a71ec223" />
 
 ## References
 https://www.linkedin.com/feed/update/urn:li:activity:7038221922265915394/
