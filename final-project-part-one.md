@@ -3,8 +3,11 @@
 
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+# OutlineThis dataset presents annual budgetary appropriations extracted from the performance reports of the Secretary-General. It comprises approved budget data for peacekeeping operations during each financial period.
+
+The dataset reflects gross requirements, defined as the total of all categories and subcategories of appropriations and expenditures (military and police personnel, civilian personnel, and operational costs). This corresponds to the “Gross requirements” line as presented in the official budget performance tables. It should be noted that staff assessment income and voluntary contributions in kind (budgeted) are excluded from this dataset.
+
+
  
 Text here...
 
@@ -26,7 +29,7 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
+|   Annual budgets for peacekeeping missions        https://psdata.un.org/dataset/DPO-PKBUDGET      |
 |      |     |             |
 |      |     |             |
 
