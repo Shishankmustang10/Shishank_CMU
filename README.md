@@ -34,7 +34,7 @@ Strengthen my ability to _communicate data-driven narratives_ for real-world pol
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-Google Colab Analysis on Paid Holidays Across the world https://colab.research.google.com/drive/16PAI7rSbVtTQODAXmdRsmjBz6bNOHmlJ?usp=sharing
+Google Colab Analysis on Paid Holidays Across the world  https://colab.research.google.com/drive/16PAI7rSbVtTQODAXmdRsmjBz6bNOHmlJ?usp=sharing 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
