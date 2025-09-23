@@ -23,7 +23,7 @@ Explore _creative tools and platforms_ (like Tableau, GitHub, and interactive da
 Strengthen my ability to _communicate data-driven narratives_ for real-world policy and decision-making.
 
 # Portfolio
-**Visualizing overnment Debt** 
+**Visualizing Government Debt** 
 
 **Critique by Design**
 
