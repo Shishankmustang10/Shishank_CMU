@@ -32,12 +32,47 @@ Text here...
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+The story will trace the financial scale and evolution of UN peacekeeping missions, highlighting how resources are allocated, and what this reveals about international priorities over time.
 
-Text here...
+Beginning (Context / Setup): Introduce the UN peacekeeping system and its role in global security. Provide background on how peacekeeping is funded and why budgets matter (they reflect political will and international consensus). The one-sentence summary: "UN peacekeeping budgets reveal the shifting priorities and challenges of global conflict management."
 
+Middle (Conflict / Rising Tension): Explore trends and changes in the budget across different years and missions. Highlight spikes or declines that correspond to key geopolitical events (e.g., major missions in Africa, drawdowns in the Balkans, or post–Cold War surge). Compare costs across categories—military, police, civilian, and operational—to show how priorities shift within the missions themselves.
+
+End (Resolution / Takeaway): Conclude with insights into what the budgetary patterns mean for the future of peacekeeping. For example: the financial burden vs. global demand, sustainability of missions, or the tension between member states’ willingness to fund peacekeeping and the UN’s mandate to maintain peace and security. Leave the audience with the thought: Peacekeeping budgets are more than numbers—they are indicators of how the world chooses to invest in peace.
+
+The story arc follows:
+
+Exposition: What UN peacekeeping is, why the budgets matter.
+
+Rising Action: Trends, spikes, and dips over time.
+
+Climax: A specific moment where peacekeeping budgets reached a critical point (e.g., post-2010 peak).
+
+Falling Action: How the UN and member states responded.
+
+Resolution: Lessons for the future of global governance and peace operations.
+
+User Stories:
+
+As a student of international policy, I want to see how funding changes over time so I can understand global conflict management priorities.
+
+As a researcher, I want to analyze which missions consumed the most resources to evaluate efficiency and effectiveness.
+
+As a policymaker, I want to know how financial commitments align with political rhetoric on peacekeeping.
 ## References
-_List any references you used here._
+United Nations Department of Peace Operations. Annual budgets for peacekeeping missions. UN Peacekeeping Data Portal. https://psdata.un.org/dataset/DPO-PKBUDGET
+
+United Nations Secretary-General Reports on Budget Performance.
+
+B. Gomes, “UN Peacekeeping Financing: Challenges and Trends,” Journal of International Peace Studies, 2021.
+
+Harvard Kennedy School, “Financing UN Peace Operations: Past, Present and Future,” Policy Paper Series, 2020.
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used ChatGPT, Perplexity and Google gemini to help structure my project proposal and refine the story arc for clarity. Specifically, AI assistance was used to:
+
+Draft the Story Structure section (arc, user stories, and one-sentence summary).
+
+Suggest relevant references to frame the dataset in context.
+
+All final ideas, interpretations, and project directions remain my own, and I will further adapt them based on my research and class feedback.
