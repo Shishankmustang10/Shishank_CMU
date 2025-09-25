@@ -1,15 +1,13 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
-# OutlineThis dataset presents annual budgetary appropriations extracted from the performance reports of the Secretary-General. It comprises approved budget data for peacekeeping operations during each financial period.
+# Outline: This dataset presents annual budgetary appropriations extracted from the performance reports of the Secretary-General. It comprises approved budget data for peacekeeping operations during each financial period.
 
 The dataset reflects gross requirements, defined as the total of all categories and subcategories of appropriations and expenditures (military and police personnel, civilian personnel, and operational costs). This corresponds to the “Gross requirements” line as presented in the official budget performance tables. It should be noted that staff assessment income and voluntary contributions in kind (budgeted) are excluded from this dataset.
 
 
- 
-Text here...
+# Story Structure 
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
