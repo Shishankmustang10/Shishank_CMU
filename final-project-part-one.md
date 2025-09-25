@@ -28,11 +28,15 @@ As a policymaker, I want to know how financial commitments align with political 
 **One-Sentence Summary**  This project explores the financial trends and resource allocations in UN peacekeeping missions over time, using budget data to link spending patterns with global security dynamics and mission effectiveness.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
 
-# The data
+![IMG_6063](https://github.com/user-attachments/assets/99c6ad3b-0083-498a-8108-cce77dd65d05)
+
+![IMG_6062](https://github.com/user-attachments/assets/a09ddfb6-25cf-44d6-b291-af4c5c7cc619)
+
+
+# The data!
+
 
 **The Peace and Security Data Hub**, managed by the **UN’s DPPA-DPO Information Management Unit**, is a centralized platform for accessing up-to-date information related to the UN’s Peace and Security Pillar. Established as part of the Secretary-General’s Data Strategy, the Hub is designed to make data more accessible, discoverable, and shareable across all stakeholders. Its growing collection of datasets is widely used by UN colleagues, Member States, journalists, academic institutions, think tanks, and the general public. The platform also benefits from active user engagement, which helps shape priorities and guide the development of new datasets.
 
