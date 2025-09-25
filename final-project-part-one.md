@@ -10,11 +10,20 @@ This dataset presents annual budgetary appropriations extracted from the perform
 # Story Structure 
 
 **Story Arc**
+
 Step I: Introduce the context of UN peacekeeping operations and the critical importance of understanding budget allocations to grasp the scale and priorities of these missions.
 
 Step II: Highlight fluctuations and trends in the peacekeeping budgets that reflect the complexities and challenges of financing multilateral peace operations amid evolving global crises.
 
 Step III: Present insights drawn from the data showing how budget patterns relate to operational priorities, mission outcomes, and future financing considerations, offering evidence-based recommendations for policy and research.
+
+**User Stories**
+
+As a student of international policy, I want to see how funding changes over time so I can understand global conflict management priorities.
+
+As a researcher, I want to analyze which missions consumed the most resources to evaluate efficiency and effectiveness.
+
+As a policymaker, I want to know how financial commitments align with political rhetoric on peacekeeping.
 
 **One-Sentence Summary**  This project explores the financial trends and resource allocations in UN peacekeeping missions over time, using budget data to link spending patterns with global security dynamics and mission effectiveness.
 
@@ -24,16 +33,17 @@ Step III: Present insights drawn from the data showing how budget patterns relat
 Text here...
 
 # The data
+
 **The Peace and Security Data Hub**, managed by the **UN’s DPPA-DPO Information Management Unit**, is a centralized platform for accessing up-to-date information related to the UN’s Peace and Security Pillar. Established as part of the Secretary-General’s Data Strategy, the Hub is designed to make data more accessible, discoverable, and shareable across all stakeholders. Its growing collection of datasets is widely used by UN colleagues, Member States, journalists, academic institutions, think tanks, and the general public. The platform also benefits from active user engagement, which helps shape priorities and guide the development of new datasets.
 
 For this project, I am using the dataset on **Annual Budgets for UN Peacekeeping Missions**, which compiles the approved gross financial requirements for peacekeeping across different financial periods. It includes resources allocated to personnel and operational costs, extracted from the Secretary-General’s performance reports using AI models and validated through random sampling. This dataset provides a reliable foundation for analyzing financial trends in peacekeeping and evaluating how budgetary priorities align with evolving global security challenges.
 
 
 | Name | URL | Description |
+|      |     |             |
 |------|-----|-------------|
-| Annual budgets for peacekeeping missions            |https://psdata.un.org/dataset/DPO-PKBUDGET  This dataset presents annual budgetary appropriations extracted from the performance reports of the Secretary-General. It comprises approved budget data for peacekeeping operations during each financial period.
-|      |     |             |
-|      |     |             |
+| Annual budgets for peacekeeping missions            |https://psdata.un.org/dataset/DPO-PKBUDGET      This dataset presents annual budgetary appropriations extracted from the performance reports of the Secretary-General. It comprises approved budget data for peacekeeping operations during each financial period.
+|      |       |             |
 
 # Method and medium
 For my final project, I’m planning to use Shorthand as my main storytelling platform because it makes it really easy to create beautiful, interactive digital stories without needing to do any coding or web design. Shorthand lets me combine text, images, videos, and other multimedia elements to craft an engaging, immersive experience for the reader. What’s great about it is how flexible it is—the editor is very user-friendly with drag-and-drop features, so I can focus on crafting the story and message rather than getting stuck in technical details.
