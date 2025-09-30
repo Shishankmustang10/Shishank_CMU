@@ -1,25 +1,82 @@
 | [home page](https://shishankmustang10.github.io/Shishank_CMU/)| [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+Wireframes / Storyboards
+
+Using last week’s sketches as the foundation, I developed the story outline into more structured wireframes:
+
+Landing / Intro
+
+Hero Image: UN peacekeepers on deployment (field photo).
+
+Headline: “Financing Peace: Trends in UN Peacekeeping Budgets”.
+
+Subtext: Explains why budgets matter for global conflict management.
+
+Section 1 – Context
+
+Visual: Static infographic breaking down a peacekeeping budget by category (military, police, civilian, operational).
+
+Narrative: Introduces readers to the scale of peacekeeping costs.
+
+Section 2 – Fluctuations and Trends
+
+Draft Visualization: Line chart (2000–2024) of annual UN peacekeeping budgets, annotated with major events (Darfur 2007 surge, Mali 2013 start, Haiti/Liberia drawdowns).
+
+Narrative: Connects budget spikes/dips to geopolitical events.
+
+Section 3 – Mission Comparisons
+
+Draft Visualization: Bar chart of the top 5 most expensive missions by annual budget (e.g., DRC, Mali, Darfur, South Sudan, Lebanon).
+
+Narrative: Highlights which missions consistently consume the most resources and why.
+
+Section 4 – Implications
+
+Visual: Flow diagram showing link between Budgets → Operations → Outcomes → Policy Lessons.
+
+Narrative: Discusses how financial choices reflect political priorities and operational challenges.
+
+Closing
+
+Call-to-action linking to the UN Peace and Security Data Hub
+. 
 
 Text here!
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+This project aims to reach:
 
-Text here!
+**Policy students** – to understand global security priorities and financing trends.
+
+**Researchers** – to evaluate resource allocation and mission efficiency.
+
+**Policy practitioners**/ **UN Staff** - to compare financial commitments with rhetoric and policy goals.
+
+Approach: I interviewed one UN employee (practitioner) and two policy students at Carnegie Mellon. This ensured perspectives from both professional and academic audiences.
+
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+
+**Research Goals**
+
+Understand baseline knowledge of peacekeeping budgets.
+
+Identify which visualization formats are most intuitive.
+
+Determine whether the narrative arc improves comprehension.
+
+Collect suggestions to improve clarity and engagement.
 
 Text here!
+
+
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
+|Assess baseline knowledge|                  |
 |      |                  |
 |      |                  |
 
