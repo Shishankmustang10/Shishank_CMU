@@ -4,9 +4,11 @@
 
 Using last week’s sketches as the foundation, I developed the story outline into more structured wireframes:
 
-Landing / Intro
+**Intro**
 
-Hero Image: UN peacekeepers on deployment (field photo).
+![image1170x530cropped (1)](https://github.com/user-attachments/assets/30e525a2-9b2c-4f9a-88fa-0c948f2a79e2)
+
+
 
 Headline: “Financing Peace: Trends in UN Peacekeeping Budgets”.
 
