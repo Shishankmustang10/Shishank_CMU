@@ -1,7 +1,6 @@
 | [home page](https://shishankmustang10.github.io/Shishank_CMU/)| [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-Wireframes / Storyboards
 
 Using last week’s sketches as the foundation, I developed the story outline into more structured wireframes:
 
@@ -22,6 +21,8 @@ Narrative: Introduces readers to the scale of peacekeeping costs.
 Section 2 – Fluctuations and Trends
 
 Draft Visualization: Line chart (2000–2024) of annual UN peacekeeping budgets, annotated with major events (Darfur 2007 surge, Mali 2013 start, Haiti/Liberia drawdowns).
+
+<img width="1260" height="850" alt="Screenshot 2025-10-01 at 6 49 15 PM" src="https://github.com/user-attachments/assets/41c68031-b4a6-48d3-80c7-b23744dd44f9" />
 
 Narrative: Connects budget spikes/dips to geopolitical events.
 
