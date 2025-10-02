@@ -91,9 +91,13 @@ Text here!
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (UN Employee) | Interview 2 (Policy Student)| Interview 3 (Policy Student)|
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
+| Familiarity |	Very familiar with UN processes, but surprised at visual clarity of budget shifts.|	Knew peacekeeping existed, but unaware of cost scale.	|Only surface-level knowledge of UN budgets.|
+Visualization preference|	Map and stacked bar (operational vs. personnel costs).|	Line chart over time was easiest to follow.|	Liked comparative bar chart of missions. |
+Usefulness |	Helpful for policy debates on financing vs. rhetoric. |	Useful for coursework in global security. |	Helped contextualize priorities over time. |
+Narrative flow	| Clear, but suggested adding short case anecdotes.	| Easy to follow, wanted more annotations on spikes. |	Logical, but recommended more visual storytelling. |
+Suggestions	| Glossary for acronyms, budget category breakdown. |	Callouts for spikes in timeline. |	Case studies and mission images to engage audience. |
 |                         |                                |             |             |
 |                         |                                |             |             |
 
