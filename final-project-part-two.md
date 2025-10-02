@@ -80,7 +80,7 @@ Text here!
 |Assess baseline knowledge|   How familiar are you with UN peacekeeping budgets or financing processes?               |
 |   Evaluate visualization preferences   |            Which visualization (line chart, bar chart, map) do you find most useful? Why?      |
 | Measure relevance     |      Would this story/data be useful for your studies or work?            |
-Test narrative flow    Did the flow (context → trends → insights) make sense?
+Test narrative flow                  Did the flow (context → trends → insights) make sense?
 Gather improvements What would make this story more engaging or clearer for you?
 
 
