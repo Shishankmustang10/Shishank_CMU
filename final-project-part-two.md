@@ -3,6 +3,7 @@
 # Wireframes / storyboards
 
 Using last week’s sketches as the foundation, I developed the story outline into more structured wireframes:
+Link to Shorthand https://preview.shorthand.com/7nYNZwGZKEKiEGZV
 
 **Intro**  Headline: “Financing Peace: Trends in UN Peacekeeping Budgets”.
 
