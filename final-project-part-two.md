@@ -84,12 +84,9 @@ Text here!
   Gather improvements    |What would make this story more engaging or clearer for you?|
 
 
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
 
 | Questions               | Interview 1 (UN Employee) | Interview 2 (Policy Student)| Interview 3 (Policy Student)|
 |-------------------------|--------------------------------|-------------|-------------|
@@ -109,15 +106,13 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| UN staff wanted breakdown by category	|Add stacked bar chart: personnel vs. operational costs. |
+Students needed clearer context for spikes	| Annotate line chart with mission events. |
+Audience requested case anecdotes |	Add callout boxes on Darfur and Mali missions. |
+Acronyms could confuse readers |	Add glossary/tooltip feature for acronyms like DPO, MONUSCO.|
+Maps were impactful for practitioners |	Create interactive map with budgets by mission region.|                                                                             |
 
-> ...include any final thoughts you have here. 
-
-Text here!
+**Final Thoughts**  The research confirmed the value of combining multiple visualization styles: line chart for trends, bar chart for comparisons, map for geography. I’ll refine the story with case anecdotes, glossary features, and stronger visual storytelling to balance technical accuracy.
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
@@ -125,8 +120,14 @@ Text here!
 Text here!
 
 ## References
-_List any references you used here._
+United Nations Department of Peace Operations. Annual budgets for peacekeeping missions. UN Peacekeeping Data Portal. https://psdata.un.org/dataset/DPO-PKBUDGET
+
+United Nations Secretary-General Reports on Budget Performance.
+
+B. Gomes, “UN Peacekeeping Financing: Challenges and Trends,” Journal of International Peace Studies, 2021.
+
+Harvard Kennedy School, “Financing UN Peace Operations: Past, Present and Future,” Policy Paper Series, 2020.
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used ChatGPT, Perplexity and Google gemini to help structure my project proposal and refine the story arc for clarity. Specifically, AI assistance was used to: To generate ideas. Refine and structure my story arc and wireframes, synthesize interview insights, Polish the language for academic and professional tone, Formatting of references to frame the dataset in context. All final ideas, interpretations, and project directions remain my own, and I will further adapt them based on my research and Part II assesment feedback.
 
