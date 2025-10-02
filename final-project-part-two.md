@@ -71,8 +71,6 @@ Determine whether the narrative arc improves comprehension.
 
 Collect suggestions to improve clarity and engagement.
 
-Text here!
-
 
 
 | Goal | Questions to Ask |
@@ -100,9 +98,7 @@ Suggestions	| Glossary for acronyms, budget category breakdown. |	Callouts for s
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -115,9 +111,29 @@ Maps were impactful for practitioners |	Create interactive map with budgets by m
 **Final Thoughts**  The research confirmed the value of combining multiple visualization styles: line chart for trends, bar chart for comparisons, map for geography. I’ll refine the story with case anecdotes, glossary features, and stronger visual storytelling to balance technical accuracy.
 
 # Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+**Persona 1 – Policy Student**
 
-Text here!
+Age: 22-25
+
+Needs: Accessible introduction to budgets, clear trends.
+
+Values: Simplicity, engaging visuals.
+
+**Persona 2 – Researcher**
+
+Age: 25-28
+
+Needs: Mission-level comparisons, methodological clarity.
+
+Values: Detail, accuracy, raw data access.
+
+**Persona 3 – Policy Practitioner (UN staff)**
+
+Age: 40+
+
+Needs: Link between budgets and political debates.
+
+Values: Strategic insight, applied policy lessons.
 
 ## References
 United Nations Department of Peace Operations. Annual budgets for peacekeeping missions. UN Peacekeeping Data Portal. https://psdata.un.org/dataset/DPO-PKBUDGET
