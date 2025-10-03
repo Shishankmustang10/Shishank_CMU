@@ -43,7 +43,6 @@ Closing
 Call-to-action linking to the UN Peace and Security Data Hub
 . 
 
-Text here!
 
 # User research 
 
