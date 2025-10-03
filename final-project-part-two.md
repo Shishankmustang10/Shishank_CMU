@@ -4,7 +4,7 @@
 
 Using last week’s sketches as the foundation, I developed the story outline into more structured wireframes:
 
-Link to Shorthand  https://preview.shorthand.com/7nYNZwGZKEKiEGZV
+Link to Shorthand  https://preview.shorthand.com/7nYNZwGZKEKiEGZV (This is still under development, actual flow of presentation will be as per section 1-4 given below)
 
 **Intro**  Headline: “Financing Peace: Trends in UN Peacekeeping Budgets”.
 
@@ -22,7 +22,6 @@ Narrative: Introduces readers to the scale of peacekeeping costs.
 <img width="1260" height="850" alt="Screenshot 2025-10-01 at 6 49 15 PM" src="https://github.com/user-attachments/assets/41c68031-b4a6-48d3-80c7-b23744dd44f9" />
 
 **Section 2 – Fluctuations and Trends**
-
 
 
 Narrative: Connects budget spikes/dips to geopolitical events.
@@ -90,11 +89,11 @@ Collect suggestions to improve clarity and engagement.
 
 | Questions               | Interview 1 (UN Employee) | Interview 2 (Policy Student)| Interview 3 (Policy Student)|
 |-------------------------|--------------------------------|-------------|-------------|
-| Familiarity |	Very familiar with UN processes, but surprised at visual clarity of budget shifts.|	Knew peacekeeping existed, but unaware of cost scale.	|Only surface-level knowledge of UN budgets.|
-Visualization preference|	Map and stacked bar (operational vs. personnel costs).|	Line chart over time was easiest to follow.|	Liked comparative bar chart of missions. |
+| Familiarity |	Very familiar with UN processes|	Knew peacekeeping existed, but unaware of cost scale.	|Only surface-level knowledge of UN budgets.|
+Visualization preference|	Map and stacked bar (operational vs. personnel costs).|	Line chart over time was easiest to follow.|	asked to link the graphs and weave it into a story |
 Usefulness |	Helpful for policy debates on financing vs. rhetoric. |	Useful for coursework in global security. |	Helped contextualize priorities over time. |
 Narrative flow	| Clear, but suggested adding short case anecdotes.	| Easy to follow, wanted more annotations on spikes. |	Logical, but recommended more visual storytelling. |
-Suggestions	| Glossary for acronyms, budget category breakdown. |	Callouts for spikes in timeline. |	Case studies and mission images to engage audience. |
+Suggestions	| Glossary for acronyms, budget category breakdown, use maps if possible |	provide legend in the graphs|	Makr important events on budget timeline to show why variation occured |
 |                         |                                |             |             |
 |                         |                                |             |             |
 
@@ -105,8 +104,8 @@ Suggestions	| Glossary for acronyms, budget category breakdown. |	Callouts for s
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | UN staff wanted breakdown by category	|Add stacked bar chart: personnel vs. operational costs. |
-Students needed clearer context for spikes	| Annotate line chart with mission events. |
-Audience requested case anecdotes |	Add callout boxes on Darfur and Mali missions. |
+Students needed legend| Annotate line chart with mission events. |
+Student requested adding imprtant eventy on timeline |	Add callout boxes on Darfur and Mali missions. |
 Acronyms could confuse readers |	Add glossary/tooltip feature for acronyms like DPO, MONUSCO.|
 Maps were impactful for practitioners |	Create interactive map with budgets by mission region.|                                                                             |
 
