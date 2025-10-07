@@ -4,7 +4,7 @@
 
 Using last week’s sketches as the foundation, I developed the story outline into more structured wireframes:
 
-**Link to Shorthand**   [https://app.shorthand.com/organisations/JSrgFWI7zn/stories/gEKbhdeWuh](https://preview.shorthand.com/7nYNZwGZKEKiEGZV/responsive/desktop) (This is still under development, actual flow of presentation will be as per section 1-4 given below)
+**Link to Shorthand**  https://preview.shorthand.com/7nYNZwGZKEKiEGZV  (This is still under development, actual flow of presentation will be as per section 1-4 given below)
 
 **Intro**  Headline: “Financing Peace: Trends in UN Peacekeeping Budgets”.
 
