@@ -1,7 +1,7 @@
 | [home page](https://shishankmustang10.github.io/Shishank_CMU/)| [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Link to Shorthand: [](https://carnegiemellon.shorthandstories.com/financing-peace-trends-in-un-peacekeeping-budgets/index.html)
+> Link to Shorthand: (https://carnegiemellon.shorthandstories.com/financing-peace-trends-in-un-peacekeeping-budgets/index.html)
 
 # Changes made since Part II
 
