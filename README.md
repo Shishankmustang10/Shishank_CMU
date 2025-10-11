@@ -1,8 +1,8 @@
 | [home page](https://shishankmustang10.github.io/Shishank_CMU/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# Telling Stories with Data- Shishank Profile
+
+Welcome to my Telling Stories with Data portfolio, a space where I combine analytical thinking and storytelling to transform complex datasets into clear, compelling narratives. Every dataset tells a story and my goal is to uncover it. This portfolio showcases how I turn raw numbers into meaningful insights through data visualization and design.
 
 - Web page URL: https://shishankmustang10.github.io/Shishank_CMU/ 
 - This repository: https://github.com/Shishankmustang10/Shishank_CMU
@@ -36,7 +36,7 @@ You can keep this section for stuff from in-class demos or your other work, or r
 
 Google Colab Analysis on Paid Holidays Across the world  https://colab.research.google.com/drive/16PAI7rSbVtTQODAXmdRsmjBz6bNOHmlJ?usp=sharing 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
