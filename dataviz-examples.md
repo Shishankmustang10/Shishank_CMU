@@ -13,3 +13,12 @@ Heading chosen is QUAD of Aus-US- Canada- Japan : Debt to GDP Ratio
 Color Codes: All four countries are represented by different color
 
 <img width="1305" height="680" alt="Screenshot 2025-09-25 at 9 48 52 AM" src="https://github.com/user-attachments/assets/2309d85a-007b-461b-94a6-e27524228517" />
+
+
+
+**Rainbow Bars Example**
+
+
+
+
+![IMG_5447 (1)](https://github.com/user-attachments/assets/d7a95dbe-0844-4b4f-8546-374e847c94b1)
