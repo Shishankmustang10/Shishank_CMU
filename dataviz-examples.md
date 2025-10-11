@@ -2,7 +2,7 @@
 
 # Data visualization examples
 
-Part 2 : Tableau Link :  https://public.tableau.com/authoring/Shishank/shishank_tableau_sep08#1Links to an external site. 
+Part 2 : Tableau Link :  https://public.tableau.com/views/TrustinNewsOrganization_17574271626940/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  Links to an external site. 
 
 part 3 : https://public.tableau.com/authoring/Part3_17573900444150/Part3#1Links to an external site. 
 
