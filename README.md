@@ -32,8 +32,10 @@ Strengthen my ability to _communicate data-driven narratives_ for real-world pol
 **final-project-part-two**
 
 
-## Final project
-Here it might be helpful to include a high-level description of your final project. 
+## Final project- “Financing Peace: Trends in UN Peacekeeping Budgets"
+
+This project, “Financing Peace: Trends in UN Peacekeeping Budgets,” explores how financial allocations reflect the United Nations’ evolving peacekeeping priorities. Using data from the UN Peace and Security Data Hub, it visualizes annual budget trends (2010–2024) through Tableau and presents them interactively on Shorthand. The story connects funding fluctuations to major geopolitical events and mission outcomes, highlighting the balance between financial commitments and global security goals. Designed for policymakers, researchers, and students, the project transforms complex budget data into an engaging narrative that links numbers to policy insights, accountability, and the real-world challenges of sustaining peace operations.
+
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
